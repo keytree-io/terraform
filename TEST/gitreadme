@@ -1,2 +1,0 @@
- yolo = !git commit -am "$(curl http://whatthecommit.com/index.txt)"
-fuckit = "!f() { git clean -d -x -f; git reset --hard; } ; f"
